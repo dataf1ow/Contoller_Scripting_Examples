@@ -1,6 +1,6 @@
 /*
 
-Copyright 2015 Evan Bogunia_____evanbeta@keithmcmillen.com
+Created by Evan Bogunia_____evanbeta@keithmcmillen.com
 
 
 */
