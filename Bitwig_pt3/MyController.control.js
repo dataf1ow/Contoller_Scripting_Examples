@@ -59,6 +59,10 @@ function onMidiPort1(status, data1, data2)
 	}else{
 		if (data1 == 60 && data2 > 0){
 			transport.play();
+		}else if (data1 == 61 && data2 > 0){
+			transport.stop();
+		}else if (data1 == 62 && data2 > 0){
+			transport.record();
 		}
 	}
 	
